@@ -12,6 +12,7 @@ This lab pairs small CUDA and Triton implementations with the reasoning behind t
 |---|---|
 | How do threads map to data? | [Three coordinates](notes/01-three-coordinates.md) |
 | Where does a barrier belong? | [Every barrier names a hazard](notes/02-every-barrier-names-a-hazard.md) |
+| How do blocks and warps get scheduled, and what does divergence cost? | [Kernel scheduling](notes/07-kernel-scheduling-blocks-warps-divergence.md) |
 | What should an out-of-range thread contribute? | [Reductions are monoids](notes/03-reductions-are-monoids.md) |
 | Why does my kernel fail only on awkward sizes? | [The bug log](notes/04-bug-log.md) |
 | What is the GEMM K loop doing? | [Tiled GEMM](notes/08-tiled-gemm-the-k-loop.md) |

@@ -30,6 +30,7 @@ Original copyright and license notices are preserved in `licenses/`. Code retain
 | `notes/04-bug-log.md` | `gpu-notes: notes/04-bug-log.md` | CC BY 4.0 |
 | `notes/05-async-is-removing-false-dependencies.md` | `gpu-notes: notes/05-async-is-removing-false-dependencies.md` | CC BY 4.0 |
 | `notes/06-cuda-is-distributed-training-one-level-down.md` | `gpu-notes: notes/06-cuda-is-distributed-training-one-level-down.md` | CC BY 4.0 |
+| `notes/07-kernel-scheduling-blocks-warps-divergence.md` | original to this repository | CC BY 4.0 |
 | `notes/08-tiled-gemm-the-k-loop.md` | `gpu-notes: notes/08-tiled-gemm-the-k-loop.md` | CC BY 4.0 |
 | `notes/09-two-memory-rules.md` | `gpu-notes: notes/09-two-memory-rules.md` | CC BY 4.0 |
 | `notes/10-why-xor.md` | `gpu-notes: notes/10-why-xor.md` | CC BY 4.0 |
